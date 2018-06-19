@@ -1,0 +1,5 @@
+TODO:
+* Sort out text color on title bar
+* Figure out fragments:
+    - Do I use a variable to switch between single/multiplayer, or swap out actual buttons?
+    - How does Settings fit into it? New activity or fragment?
