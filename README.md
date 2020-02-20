@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="" alt="">
+	<img src="https://raw.githubusercontent.com/jamesalexatkin/noughts-and-crosses-app/master/noughts-and-crosses-logo.png" alt="">
 </p>
 
 <h1 align="center" padding="100">Noughts and Crosses</h1>
@@ -10,7 +10,7 @@
 * 1-player against AI
 * Settings menu
 
-# Screenshot
+
 <p align="center">
-	<img src="" alt="">
+	<img src="https://raw.githubusercontent.com/jamesalexatkin/noughts-and-crosses-app/master/noughts-and-crosses-screenshot.jpg" alt="">
 </p>
