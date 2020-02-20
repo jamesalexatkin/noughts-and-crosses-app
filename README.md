@@ -12,5 +12,5 @@
 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/jamesalexatkin/noughts-and-crosses-app/master/noughts-and-crosses-screenshot.jpg" alt="">
+	<img src="https://raw.githubusercontent.com/jamesalexatkin/noughts-and-crosses-app/master/noughts-and-crosses-screenshot-reduced.jpg" alt="">
 </p>
